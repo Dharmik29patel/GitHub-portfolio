@@ -1,0 +1,24 @@
+🎯 Goal: Build a dashboard visualizing pollutant trends by company, region, or chemical over the last decade.
+
+🔍 Data Source: EPA Toxics Release Inventory (TRI)
+
+📦 Skills Used: SQL, Tableau/Power BI, ETL (Python), Data Cleaning
+
+🧠 Plan:
+Download TRI data from EPA (10-year trend for NH + neighboring states)
+
+Process & filter to include total air/water/land discharges
+
+Clean and normalize (e.g., units, FIPS mapping)
+
+Load to SQL/PostgreSQL or connect directly to Tableau
+
+Create visualizations:
+
+Pollution by region
+
+Top polluting facilities or chemicals
+
+Year-over-year change
+
+Add filters (industry, chemical, year) and interactivity
