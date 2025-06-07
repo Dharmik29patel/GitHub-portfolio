@@ -1,0 +1,31 @@
+🎯 Goal: Build a predictive model to forecast electricity usage across residential, commercial, and government sectors.
+
+🔍 Data Source: U.S. Energy Information Administration (EIA) or ISO New England
+
+📦 Skills Used: Python, Pandas, Time Series Modeling (ARIMA, Prophet, XGBoost), Matplotlib/Seaborn, Scikit-learn
+
+🧠 Plan:
+Collect monthly energy consumption data (2010–2024) by state/sector
+
+Clean and structure the time series
+
+Visualize trends and seasonal patterns
+
+Split into training/test, create baseline models (mean, naive), and then try:
+
+ARIMA / SARIMA
+
+Facebook Prophet
+
+Gradient Boosting (XGBoost)
+
+Evaluate with RMSE/MAE on test set
+
+Deploy interactive charts (optional): Streamlit or Tableau
+
+Blog-style README explaining forecasting assumptions and findings
+
+✅ Outcome:
+Showcases: data wrangling, time series expertise, modeling and insights
+
+Bonus: Relevant to utility companies, government roles, and energy startups
