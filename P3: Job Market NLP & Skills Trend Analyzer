@@ -1,0 +1,27 @@
+🎯 Goal: Analyze job postings to find the most in-demand skills, tools, and trends for data roles.
+
+🔍 Data Source: Scraped or exported LinkedIn/Indeed job posts
+
+📦 Skills Used: NLP (Spacy, TF-IDF), BeautifulSoup or SerpAPI, WordClouds, Plotly, Pandas
+
+🧠 Plan:
+Scrape 500–1000 job descriptions for “Data Scientist” or “Data Engineer”
+
+Clean and tokenize text (remove stopwords, lemmatize)
+
+Use TF-IDF to find top recurring terms & tools (Python, SQL, etc.)
+
+Create visualizations:
+
+Skill frequency bar charts
+
+WordClouds by city or role
+
+Trends in job requirements
+
+Bonus: Compare NH vs MA vs Remote roles
+
+✅ Outcome:
+Showcases: scraping, NLP, real-world problem solving
+
+Bonus: Highly relevant for career content and employer branding projects
